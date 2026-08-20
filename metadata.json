@@ -1,0 +1,6 @@
+{
+  "name": "CYGM RR Chowrasta Ka Raja",
+  "description": "Official mobile application for Chaitanya Youth Ganesh Mandali (#CYGM), RR Chowrasta Ka Raja, Nizamabad, Telangana.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
